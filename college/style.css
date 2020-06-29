@@ -1,0 +1,67 @@
+/* ---------------------------------------- footer syyle --------------------------- */
+footer{
+	clear: both;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#text{
+	margin-top: 4px;
+}
+
+.centerdiv a{
+	background-color: #f5f6fa;
+	border-radius: 15px;
+	text-align: center;
+	padding: 3px 16px 3px 16px;
+	margin: 2px;
+}
+
+.centerdiv a i{
+	font-size: 17px;
+	transition: all 0.3s linear;
+}
+
+.centerdiv a:hover i{
+	transform: scale(1.4);
+}
+
+.fa-instagram{
+	color: #e84393;
+}footer{
+	clear: both;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#text{
+	margin-top: 4px;
+}
+
+.centerdiv a{
+	background-color: #f5f6fa;
+	border-radius: 15px;
+	text-align: center;
+	padding: 3px 16px 3px 16px;
+	margin: 2px;
+}
+
+.centerdiv a i{
+	font-size: 17px;
+	transition: all 0.3s linear;
+}
+
+.centerdiv a:hover i{
+	transform: scale(1.4);
+}
+
+.fa-instagram{
+	color: #e84393;
+}
+
